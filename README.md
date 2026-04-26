@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/thanh-ch%C6%B0%C6%A1ng-le-b07a55317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chuongle241205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -58,22 +58,22 @@
 
 ## 🔬 Featured Projects
 
-### 1. [Supervised Learning: Regression & Classification from Scratch](link-to-repo)
+### 1. [Supervised Learning: Regression & Classification from Scratch](https://github.com/ThanhChuong12/Supervised-Learning-Regression-Classification.git)
 *A deep dive into ML fundamentals, implementing core algorithms entirely using NumPy.*
 - **Tech:** `Python`, `NumPy`, `Scikit-Learn` (for validation)
 - **Highlights:** Implemented OLS, Ridge, Lasso, Kernel Ridge, Gaussian Process Regression, Perceptron, Logistic/Probit, LDA, QDA, and Naive Bayes **from scratch** without black-box estimators.
 
-### 2. [Australian Rain Prediction: From Dynamics to Modeling](link-to-repo)
+### 2. [Australian Rain Prediction: From Dynamics to Modeling](https://github.com/ThanhChuong12/rainfall-prediction-analytics-australia.git)
 *End-to-end data science pipeline focusing on physical mechanisms and predictive modeling.*
 - **Tech:** `Python`, `XGBoost`, `Scikit-Learn`, `MICE Imputation`
 - **Highlights:** Handled highly imbalanced data (145k+ records), engineered MICE imputation over PCA, and optimized XGBoost thresholds to maximize Recall for disaster warning systems.
 
-### 3. [Multimodal E-commerce Review Analytics Dashboard](link-to-repo)
+### 3. [Multimodal E-commerce Review Analytics Dashboard](https://github.com/ThanhChuong12/ecommerce-review-analytics.git)
 *Real-time AI dashboard for spam detection and review analytics on Vietnamese platforms.*
 - **Tech:** `Python` (Backend/ML), `TypeScript` (Frontend), `LLMs`, `Computer Vision`
 - **Highlights:** Integrated Large Language Models and CV to detect fake reviews. Engineered the geospatial UI/UX using TS/React to fetch and display dynamic real-world monitor data.
 
-### 4. [arXiv Scientific Paper ETL Resolver](link-to-repo)
+### 4. [arXiv Scientific Paper ETL Resolver](https://github.com/ThanhChuong12/scientific-paper-etl-resolver.git)
 *Automated ETL pipeline scraping and processing unstructured LaTeX from arXiv.*
 - **Tech:** `Python`, `BeautifulSoup4`, `Requests`, `Multiprocessing`
 - **Highlights:** Built a parallel web scraper parsing metadata and recursive LaTeX archives. Cleaned image payloads (reducing storage by 60-80%) and transformed references into hierarchical JSON.
